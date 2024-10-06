@@ -1,0 +1,91 @@
+body {
+    font-size: 11px;
+    font-family: 'Barlow Semi Condensed';
+    max-width: 1440px;
+    background-color: hsl(210, 46%, 95%);
+    
+}
+
+
+.main {
+    box-sizing: border-box;
+    margin: 10%;
+    display: flex;
+    height: 70vh;
+    width: 70%;
+   
+}
+
+.leftbox {
+    width: 72%;
+    height: 100%;
+}
+
+
+.lefttop {
+    display: flex;
+    height: 48%;
+    margin-bottom: 3%;
+    width: 100%;
+
+}
+
+.lefttop-one {
+    width: 67%;
+    background-color: hsl(263, 55%, 52%);
+    color: white;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.lefttop-two {
+    width: 30%;
+    margin-left: 3%;
+    background-color: hsl(217, 19%, 35%);
+    color: white;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.leftbottom {
+    display: flex;
+    height: 48%;
+    width: 100%;
+
+}
+
+.leftbottom-one {
+    width: 30%;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.leftbottom-two {
+    width: 67%;
+    margin-left: 3%;
+    background-color: hsl(219, 29%, 14%);
+    color: white;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.rightbox {
+    
+    height: 100%;
+    width: 25%;
+    margin-left: 3%;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.profile{
+    
+   
+}
+li{
+   
+    list-style-type: none;
+  
+}
